@@ -4,7 +4,7 @@ Juego de consola hecho en Java como práctica de el patron Strategy.
 
 ## 🚀 Descargar
 Puedes bajar la última versión aquí:  
-👉 [Descargar JuegoHarryPotter.jar](https://github.com/TU-USUARIO/TU-REPO/releases/latest/download/JuegoHarryPotter.jar)
+👉 [Descargar JuegoHarryPotter.jar](https://github.com/SebasAcvdo/Harry-Potter-Game/releases/latest/download/JuegoHarryPotter.jar)
 
 ## ▶️ Ejecutar
 - En Windows/Linux/Mac (con Java instalado):
