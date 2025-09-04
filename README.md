@@ -8,7 +8,7 @@ Lastest version:
 👉 [Descargar JuegoHarryPotter.jar](https://github.com/SebasAcvdo/Harry-Potter-Game/releases/latest/download/JuegoHarryPotter.jar)
 
 ## ▶️ Executing...
-- En Windows/Linux/Mac (con Java instalado):
+- In Windows/Linux/Mac (With java installed):
   ```bash
   java -jar JuegoHarryPotter.jar
 ## Diagram class🥸
