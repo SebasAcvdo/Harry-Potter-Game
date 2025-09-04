@@ -12,4 +12,5 @@ Puedes bajar la última versión aquí:
   java -jar JuegoHarryPotter.jar
 ## Diagrama de clases 🥸
 
-<img width="791" height="205" alt="Diagrama sin título-Página-1 drawio (1)" src="https://github.com/user-attachments/assets/2785ae36-c96a-4e6f-a8d9-139a824947e7" />
+<img width="1071" height="202" alt="Harrypotterjeugo drawio" src="https://github.com/user-attachments/assets/28163180-014e-424c-8054-c1525732c33f" />
+
